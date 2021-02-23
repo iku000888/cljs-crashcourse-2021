@@ -3,7 +3,7 @@
             [reagent.core :as r]
             [ajax.core :refer [GET]]))
 
-#_(js/alert "foo!")
+(js/alert "foo!")
 
 (comment
   (defn app []
