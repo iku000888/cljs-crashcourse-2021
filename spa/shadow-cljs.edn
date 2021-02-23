@@ -1,0 +1,6 @@
+{:lein true
+ :dev-http {8000 "public"}
+ :builds
+ {:app {:target :browser
+        :output-dir "public/js"
+        :modules {:main {:entries [foo.bar]}}}}}
