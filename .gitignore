@@ -3,7 +3,7 @@ api-server/target/repl-port
 api-server/target
 /spa/package-lock.json
 /spa/package.json
-/spa/public/
+/spa/public/js
 /spa/target/
 /spa/node_modules/
 /spa/.shadow-cljs/
